@@ -1,6 +1,6 @@
 <!-- Header card image — replace with your actual card URL -->
 <p align="center">
-  <img src="https://your-header-card-url-here.png" alt="Joel Jose" width="100%" />
+  <img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/a757d0d6-f129-40ab-bc66-5247cfa12aaf" />
 </p>
 
 ## Hi, I'm Joel Jose 👋
