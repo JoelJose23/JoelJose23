@@ -11,15 +11,6 @@ Currently working on a custom LLM with a high-performance Rust tokenizer server,
 
 **Stack:** Python · Rust · C++ · Java · PyTorch · Transformers · Docker · Linux
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoelJose23&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelJose23&layout=compact&theme=github_dark" height="160"/>
-</p>
-
----
-
 Most of my repos are experiments that grow into larger projects — built in public because great software improves through collaboration. Open an issue, propose an architecture, submit a PR, or just ⭐ something you found useful. Always happy to connect over AI, systems, or research.
 
 *"Building tomorrow's AI, one commit at a time."*
